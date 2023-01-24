@@ -1,0 +1,24 @@
+[
+  {
+    "id": 1,
+    "name": "Dan",
+    "role": "admin",
+    "salary":10000,
+    "pwd": "password@1"
+  },
+
+  {
+    "id": 2,
+    "name": "Jack",
+    "role": "l2",
+    "salary":10000,
+    "pwd": "password@1"
+  },
+  {
+    "id": 1,
+    "name": "Nike",
+    "role": "l1",
+    "salary":10000,
+    "pwd": "password@1"
+  }
+]
